@@ -1,0 +1,29 @@
+.content-1 {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.content-1 .list-1 li {
+    text-transform: uppercase;
+    color: goldenrod;
+    cursor: pointer;
+    line-height: 30px;
+}
+
+p {
+    background-color: teal;
+
+}
+
+div span {
+    font-style: italic;
+}
+
+.list-2 {
+    line-height: 30px;
+}
+
+.rick {
+    height: 300px;
+    width: 400px;
+}
