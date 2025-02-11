@@ -7,8 +7,6 @@ main{
 }
 .image-content img{
     width: 50%;
-    /* height: 100%; */
-    object-fit: cover;
 }
 .image-content p{
     font-size: 1rem;
